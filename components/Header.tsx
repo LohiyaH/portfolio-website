@@ -35,7 +35,8 @@ const Header = () => {
     { label: 'Projects', section: 'projects' },
     { label: 'Skills', section: 'skills' },
     { label: 'Contact', section: 'contact' },
-    { label: 'Resume', type: 'external', href: 'https://drive.google.com/drive/folders/1ea_sKbeoKb6t7J59yZmDOnh0vweVQt06?usp=sharing' }
+    { label: 'Resume', type: 'external', href: 'https://drive.google.com/drive/folders/1yVn2SHluyRNgX_rFP5gSRIUhUdvjnsw-?usp=sharing' },
+    { label: 'Certifications', type: 'external', href: 'https://drive.google.com/drive/folders/1LwGAOvEEjuHdQcD_Rg1OpIceWAh_X2YC?usp=sharing'}
   ]
 
   return (
